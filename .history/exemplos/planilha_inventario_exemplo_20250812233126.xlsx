@@ -1,0 +1,11 @@
+# Este é um arquivo de exemplo de planilha Excel
+# O arquivo real seria um .xlsx com dados de inventário
+# Colunas esperadas: code, name, category, quantity, unit, weight, location
+
+# Exemplo de dados:
+# code,name,category,quantity,unit,weight,location
+# PROD001,Notebook Dell Inspiron,Eletrônicos,50,UN,2.5,Estante A1
+# PROD002,Mouse Wireless,Periféricos,100,UN,0.1,Estante B2
+# PROD003,Teclado Mecânico,Periféricos,30,UN,0.8,Estante B3
+# PROD004,Monitor 24",Eletrônicos,25,UN,3.2,Estante A2
+# PROD005,Cabo HDMI,Cabos,200,UN,0.05,Estante C1
